@@ -2,9 +2,11 @@
 
 This repository contains the Kepler exoplanet dataset, enriched with habitability indices to facilitate analysis and visualization of potentially habitable worlds.
 
+Aditionall, the repository hosts the required Python code to create related CSV files to allow for additional visualization capabilities.
+
 ## Contents
 
-- `kepler_data_enriched.csv`: Main dataset with 53 variables (50 original + 3 habitability indices) and 9,564 observations of potential exoplanets. The enrichment of
+- `datasets/kepler_data_enriched.csv`: Main dataset with 53 variables (50 original + 3 habitability indices) and 9,564 observations of potential exoplanets. The enrichment of
 - this dataset is intended solely for academic purposes related to data science analysis and visualization, and not for commercial or operational use.
 
 ## Dataset Description
