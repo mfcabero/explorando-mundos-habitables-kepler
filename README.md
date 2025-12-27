@@ -33,6 +33,11 @@ This dataset is released under the **CC0: Public Domain** license and is free to
 - **Original source**: NASA Kepler Exoplanet Search Results (CC0 Public Domain)
 - **Dataset enrichment and documentation**: mfcabero (2025)
 
+## Code License
+All Python code and related scripts in this repository are licensed under the MIT License.
+
+This means you are free to use, copy, modify, merge, publish, and distribute the software as long as the original copyright notice and permission statement are included.
+
 ## Repository Contents
 
 1. **datasets/kepler_data_enriched.csv**: Main dataset with 53 variables and 9,564 observations of potential exoplanets, enriched with habitability indices.
